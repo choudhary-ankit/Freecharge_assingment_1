@@ -1,0 +1,123 @@
+.body_div{
+    
+    width: 100%;
+}
+.partisiton{
+    display: flex;
+    flex-direction: row;
+}
+.section_one{
+    width: 20%;
+    height: auto;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.section_two{
+    width: 100%;
+    height: auto;
+    background-color:whitesmoke;
+}
+.section_two_body{
+    margin: 20px;
+    background-color: white;
+    color: black;
+    height: auto;
+
+}
+.nav_icon_home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-left: 15%;
+    align-items: center;
+}
+.home{
+    margin-right: 15%;
+    text-decoration: none;
+    color: white;
+}
+.arrng{
+    display: flex;
+    flex-direction: row;
+    color: red;
+    justify-content: flex-end;
+}
+.search_input{
+    border: 2px solid green;
+    border-radius: 15px;
+    outline: none;
+    height: 30px;
+}
+.card_div{
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    overflow: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.card_size{
+    max-width: 245px;
+}
+.img_media{
+    height: 140px;
+}
+.select_resturent{
+    display: grid;
+    grid-template-columns: 27% 27% 27% 27%;
+    grid-row-gap: 15px;
+    
+}
+@media only screen and (max-width: 600px){
+    .card_div{
+        width: 100%;
+        height: auto;
+        margin: 0px;
+        overflow: none;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .card_size{
+        width: 245px;
+        margin-bottom: 10px;
+    }
+    .select_resturent{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
+@media only screen and (max-width: 800px){
+    .card_div{
+        width: 100%;
+        height: auto;
+        margin: 0px;
+        overflow: none;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .card_size{
+        width: 245px;
+        margin-bottom: 10px;
+    }
+    .select_resturent{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
