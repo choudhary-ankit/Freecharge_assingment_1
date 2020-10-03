@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Freecharge_assingment_1/static/css/main.01b170ae.chunk.css",
+    "main.js": "/Freecharge_assingment_1/static/js/main.2285175c.chunk.js",
+    "main.js.map": "/Freecharge_assingment_1/static/js/main.2285175c.chunk.js.map",
+    "runtime-main.js": "/Freecharge_assingment_1/static/js/runtime-main.a764fd7f.js",
+    "runtime-main.js.map": "/Freecharge_assingment_1/static/js/runtime-main.a764fd7f.js.map",
+    "static/js/2.012f75ef.chunk.js": "/Freecharge_assingment_1/static/js/2.012f75ef.chunk.js",
+    "static/js/2.012f75ef.chunk.js.map": "/Freecharge_assingment_1/static/js/2.012f75ef.chunk.js.map",
+    "index.html": "/Freecharge_assingment_1/index.html",
+    "precache-manifest.78ca0b2d9c93741f305d26d8e2ee67e3.js": "/Freecharge_assingment_1/precache-manifest.78ca0b2d9c93741f305d26d8e2ee67e3.js",
+    "service-worker.js": "/Freecharge_assingment_1/service-worker.js",
+    "static/css/main.01b170ae.chunk.css.map": "/Freecharge_assingment_1/static/css/main.01b170ae.chunk.css.map",
+    "static/js/2.012f75ef.chunk.js.LICENSE.txt": "/Freecharge_assingment_1/static/js/2.012f75ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a764fd7f.js",
+    "static/js/2.012f75ef.chunk.js",
+    "static/css/main.01b170ae.chunk.css",
+    "static/js/main.2285175c.chunk.js"
+  ]
+}
